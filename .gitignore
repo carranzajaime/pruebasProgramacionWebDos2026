@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 app*.js
-pruebasAgo2026PW2.iml
+.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
