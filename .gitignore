@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 app*.js
-.iml
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
