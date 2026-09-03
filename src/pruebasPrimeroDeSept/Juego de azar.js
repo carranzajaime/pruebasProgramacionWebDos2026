@@ -7,7 +7,7 @@ var optionUser = prompt("¿Qué numero del 1 al 10 es el correcto?");
 
 while (vidas > 0){
     if(optionUser == numeroMaquina){
-        prompt("Acertaste!");
+        alert("Acertaste!");
     } else {
         vidas--
         prompt("Fallaste, te quedan: "+vidas);
